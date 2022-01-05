@@ -1,2 +1,1 @@
-# TAT
-## Thor-based AWS Tool
+# TAT-Thor-based AWS Tool
